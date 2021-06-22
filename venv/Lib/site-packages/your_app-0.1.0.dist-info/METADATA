@@ -1,0 +1,46 @@
+Metadata-Version: 2.0
+Name: your-app
+Version: 0.1.0
+Summary: Your Python application.
+Home-page: UNKNOWN
+Author: You
+Author-email: your@email
+License: MIT
+Keywords: your_app
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+
+========
+your_app
+========
+
+Tutorial repository for `"Creating and Distributing a Python Project" <http://thecodeinn.blogspot.com/2015/08/python-project.html>`_.
+
+`Documentation <your_app.rtfd.org>`_
+====================================
+
+Documentation can be found here: your_app.rtfd.org
+
+`License <your_app.mit-license.org>`_
+=====================================
+
+This project is licensed under the MIT-License.
+
+Authors
+=======
+
+Peter Goldsborough & `cat <https://goo.gl/IpUmJn>`_ :heart:
+
+
+

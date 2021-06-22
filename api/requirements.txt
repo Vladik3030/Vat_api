@@ -1,0 +1,8 @@
+Flask
+requests
+datetime 
+uuid
+Flask-SQLAlchemy
+PyJWT == 1.7.0
+jmespath
+werkzeug
