@@ -1,15 +1,15 @@
 # Vat_api
  Test_task
 
+Hi, this is my variation of API which based on UK validation VAT API, all of that were done in PyCharm
 
-Hi, this is my variation of API which based on UK validation VAT API
-
-Frist of all you need to call command
+But if you want to start it by console first of all you need to call command
 
 pip install -r requrements.txt
 
 This will install all needed libs for that project.
-All of routes where tested in postman.
+
+All of routes where tested in postman and better to use for all of the routes 
 
 There are 9 routes
 
